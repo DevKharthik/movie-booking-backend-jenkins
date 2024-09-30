@@ -16,5 +16,5 @@ COPY . .
 # Expose the port that your app will run on
 EXPOSE 5500
 
-# Start the applicatio
+# Start the application
 CMD ["npm", "start"]
